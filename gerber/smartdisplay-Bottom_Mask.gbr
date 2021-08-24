@@ -1,0 +1,31 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.8)-1*%
+%TF.CreationDate,2021-08-10T17:59:01+08:00*%
+%TF.ProjectId,smartdisplay,736d6172-7464-4697-9370-6c61792e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.8)-1) date 2021-08-10 17:59:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,2.200000X1.100000*%
+%ADD11C,0.750000*%
+%ADD12O,1.700000X1.100000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X194320000Y-90430000D03*
+X194320000Y-99070000D03*
+D11*
+X194850000Y-97640000D03*
+D12*
+X198500000Y-99070000D03*
+D11*
+X194850000Y-91860000D03*
+D12*
+X198500000Y-90430000D03*
+%TD*%
+M02*
