@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/license-GPL-blue" alt="GPL License" />
     </a>
     <a href="https://www.kicad.org/">
-        <img src="https://img.shields.io/badge/vue.js-2.0-green" alt="Kicad">
+        <img src="https://img.shields.io/badge/Kicad-2.0-green" alt="Kicad">
     </a> 
     <a href="https://dengyi.pro">
         <img src="https://img.shields.io/badge/author-dengyi-blueviolet" alt="Author">
